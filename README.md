@@ -1,1 +1,1 @@
-Readme of C programming language repository
+Readme of hello world folder
